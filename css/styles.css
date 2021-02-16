@@ -1,0 +1,40 @@
+/* Основной цвет шрифта #212121 */
+/* Дополнительный цвет шрифта #757575 */
+/* Акцент обводки #2196F3 */
+/* Белая шапка  #FFFFFF */
+/* 1 - фон #E5E5E5 */
+/* 2 - фон #F5F4FA */
+/* 3 - подвал #2F303A */
+/* Нижняя информация rgba(255, 255, 255, 0.6);*/
+
+ul {
+  list-style: none;
+}
+
+.page {
+  background-color: #ffffff;
+  color: #212121;
+}
+
+/* site-nav */
+
+.site-nav .link {
+  color: #212121;
+}
+.site-nav .link:hover,
+.site-nav .link:focus {
+  color: #2196f3;
+}
+
+/*  регистрация и вход */
+.auth-nav {
+}
+
+/* Описание их услуг */
+
+.section {
+  color: #212121;
+}
+.section-title {
+  color: #757575;
+}
