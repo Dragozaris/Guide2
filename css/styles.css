@@ -7,16 +7,18 @@
 /* 3 - подвал #2F303A */
 /* Нижняя информация rgba(255, 255, 255, 0.6);*/
 
+/* убрал точки */
 ul {
   list-style: none;
 }
 
+/* фон боди */
 .page {
   background-color: #ffffff;
   color: #212121;
 }
 
-/* site-nav */
+/* Шапка сайта */
 
 .site-nav .link {
   color: #212121;
@@ -26,15 +28,48 @@ ul {
   color: #2196f3;
 }
 
-/*  регистрация и вход */
-.auth-nav {
+/*  Информация */
+.auth-nav .link {
+  color: #212121;
+}
+.auth-nav .link:hover {
+  color: #2196f3;
 }
 
+/* <!-- Место для банера */
+.banner {
+  color: #757575;
+}
+
+.button {
+  color: #ffffff;
+  background-color: #2196f3;
+}
 /* Описание их услуг */
 
 .section {
   color: #212121;
 }
 .section-title {
+  color: #757575;
+}
+
+/* <!-- Секция с занятиями --> */
+
+.working {
+  color: #212121;
+}
+
+/* Описание команды */
+
+.team {
+  color: #212121;
+}
+
+.name {
+  color: #212121;
+}
+
+.work {
   color: #757575;
 }
