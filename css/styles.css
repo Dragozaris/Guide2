@@ -28,7 +28,15 @@ h1 {
   color: #212121;
 }
 
+/* Лого */
+
+.web {
+  color: #2196f3;
+}
 /* Шапка сайта */
+.studio {
+  color: #212121;
+}
 
 .site-nav .link {
   color: #212121;
