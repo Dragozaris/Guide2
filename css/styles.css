@@ -17,6 +17,11 @@ ul {
   list-style: none;
 }
 
+/* Убрал заголовок */
+h1 {
+  display: none;
+}
+
 /* фон боди */
 .page {
   background-color: #ffffff;
@@ -88,3 +93,5 @@ ul {
 .Additional-description {
   color: #757575;
 }
+
+/* Фильтры подбора */
