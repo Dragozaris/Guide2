@@ -102,4 +102,22 @@ h1 {
   color: #757575;
 }
 
-/* Фильтры подбора */
+/* Настройка подвала */
+.web-basement {
+  color: #2196f3;
+}
+.studio-basement {
+  color: #212121;
+}
+
+/* не работает???????? */
+.address-nav {
+  color: #ffffff;
+}
+
+.address-site {
+  color: #757575;
+}
+.address-nomber {
+  color: #757575;
+}
