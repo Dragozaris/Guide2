@@ -75,3 +75,11 @@ ul {
 }
 
 /* Стили для портфолио */
+
+.Main-Description {
+  color: #212121;
+}
+
+.Additional-description {
+  color: #757575;
+}
