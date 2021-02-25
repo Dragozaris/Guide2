@@ -32,10 +32,14 @@ h1 {
 
 .web {
   color: #2196f3;
+  font-size: 26px;
+  line-height: 31px;
 }
 /* Шапка сайта */
 .studio {
   color: #212121;
+  font-size: 26px;
+  line-height: 31px;
 }
 
 .site-nav .link {
@@ -105,9 +109,13 @@ h1 {
 /* Настройка подвала */
 .web-basement {
   color: #2196f3;
+  font-size: 26px;
+  line-height: 31px;
 }
 .studio-basement {
   color: #212121;
+  font-size: 26px;
+  line-height: 31px;
 }
 
 /* не работает???????? */
